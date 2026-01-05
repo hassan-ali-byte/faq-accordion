@@ -170,6 +170,7 @@ main {
 .faq-question:hover,
 .faq-question:focus-visible {
     color: var(--pink-500);
+    outline: 2px solid var(--pink-500);
 }
 
 .faq-question span {
