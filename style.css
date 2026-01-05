@@ -167,9 +167,11 @@ main {
     transition: color .2s ease;
 }
 
-.faq-question:hover,
+.faq-question:hover{
+        color: var(--pink-500);
+}
 .faq-question:focus-visible {
-    color: var(--pink-500);
+
     outline: 2px solid var(--pink-500);
 }
 
