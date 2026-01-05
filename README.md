@@ -114,7 +114,7 @@ This project was built to practice:
 
 ## 🌐 Live Demo
 
-[Click here to view live demo](#)
+[Click here to view live demo](https://faq-accordion-js-eight.vercel.app/)
 
 ---
 
